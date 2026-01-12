@@ -1,6 +1,6 @@
 import pygame
 import os
-
+#привіт
 # --- CONFIGURATION ---
 FRAME_WIDTH = 32
 FRAME_HEIGHT = 32
